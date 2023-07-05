@@ -1,2 +1,2 @@
-# Skillslash-Academy
-Python, ML projects, NLP projects,Tableau projects and SQL queries.
+# Data science projects
+Python, ML Projects, NLP projects,Tableau/Power BI  and SQL Projects.
